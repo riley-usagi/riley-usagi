@@ -14,7 +14,7 @@ Please feel free to contact me if you have any questions or would like to discus
 
 ### About
 * 🌍  I’m based in [Moscow](https://yandex.ru/maps/-/CCU75EBKTB)
-* 📜  My [Resume]([https://drive.google.com/file/d/1RjRV2BD6iqxAZx2SYFlflWJyukl0AIgV/view](https://drive.google.com/file/d/19kdb_Fooy7YAjEZxmZ_nGaeV3OYGKq0f/view))
+* 📜  My [Resume](https://drive.google.com/file/d/1XekbzHIMLWYy3wRK_fugcR9_A3g-Zctb/view?usp=sharing)
 * ✈️  You can contact me at Telegram: [@riley_usagi](https://t.me/riley_usagi)
 * ❤️  My channel YouTube: [Riley Usagi](https://www.youtube.com/playlist?list=PLL3ab8WAPq6WouXrniDtkIMU-f_hdD02B)
 * 🚀  I’m currently working on [The EV Architecture | by Riley Usagi | Apr, 2023 | Medium](https://medium.com/@riley.usagi/the-ev-architecture-a0dd20f3ebfe)
