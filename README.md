@@ -30,23 +30,24 @@ Please feel free to contact me if you have any questions or would like to discus
 | Hacking with Swift    | 100 Days of SwiftUI      |
 
 ### Skills
-<p align=«left»>
-  <img src=«https://img.shields.io/badge/SWIFT-F05138?style=flat&logo=swift&logoColor=ffffff»/>
-  <img src=«https://img.shields.io/badge/SwiftUI-0260E8?style=flat&logo=swift&logoColor=ffffff»/>
-  <img src=«https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=ffffff»/>
-  <img src=«https://img.shields.io/badge/MVVM-53AC56?style=flat»/>
-  <img src=«https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=ffffff»/>
-  <img src=«https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF»/>
-  <img src=«https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=ffffff»/>
-  <img src=«https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff»/>
+<p align="left">
+  <img src="https://img.shields.io/badge/SWIFT-F05138?style=flat&logo=swift&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0260E8?style=flat&logo=swift&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/MVVM-53AC56?style=flat"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff"/>
 
 ### Other skills
-<p align=«left»>
-  <img src=«https://img.shields.io/badge/Stack Overflow-F58025?style=flat&logo=stackoverflow&logoColor=ffffff»/>
-  <img src=«https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=ffffff»/>
-  <img src=«https://img.shields.io/badge/zoom-2D8CFF?style=flat»/>
-  <img src=«https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=ffffff»/>
-  <img src=«https://img.shields.io/badge/Apple Arcade-000000?style=flat&logo=applearcade&logoColor=ffffff»/>
-  <img src=«https://img.shields.io/badge/App Store-0D96F6?style=flat&logo=appstore&logoColor=ffffff»/>
-  <img src=«https://img.shields.io/badge/MacOS-000000?style=flat»/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Stack Overflow-F58025?style=flat&logo=stackoverflow&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/zoom-2D8CFF?style=flat"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/App Store-0D96F6?style=flat&logo=appstore&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/MacOS-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat"/>
 </p>
