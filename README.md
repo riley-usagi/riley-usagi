@@ -1,7 +1,7 @@
 👋 Hello
 =======================================
 
-I am an experienced iOS developer who has developed and published several applications on the App Store (based on SwiftUI/SwiftUI + UiKit).
+I am an experienced iOS developer who has developed and published several applications on the App Store (based on **SwiftUI/SwiftUI + UiKit**).
 As a middle and senior developer, I have worked on various projects, including mentoring interns and assigning tasks to them. 
 
 I have created my own ([Architecture](https://medium.com/@riley.usagi/the-ev-architecture-a0dd20f3ebfe)) for developing mobile applications specifically for the iOS platform, which I am particularly proud of. 
