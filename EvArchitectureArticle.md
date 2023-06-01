@@ -1,6 +1,6 @@
 # The EV Architecture
 
-[image:F492DBDF-8034-4F01-8CAE-D3488DF41DE1-10131-000024D3482D7162/1*4Iuo18Fd6leQQkAaZ27Yrg.png]
+![1*4Iuo18Fd6leQQkAaZ27Yrg](https://github.com/riley-usagi/riley-usagi/assets/15017726/b68939d5-2bd5-41c1-8441-299431d0d8d2)
 
 
 ## Foreword
