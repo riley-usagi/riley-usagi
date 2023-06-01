@@ -21,7 +21,7 @@ It’s an entertaining read, so I recommend it to everyone.
 
 I’ll add one of the interesting images from that article:
 
-[image:47EBE7BF-D41B-4447-BE99-2A25E20082E6-10131-0000258362DD6CF2/1*PIiZ-tSToCuyYJrtLpo1Mw.jpeg]
+![1*PIiZ-tSToCuyYJrtLpo1Mw](https://github.com/riley-usagi/riley-usagi/assets/15017726/0a014057-4b12-44c3-bdfc-790e96290120)
 
 However, even there, during the discussions, everything still comes down to the fact that if a project is more than just a basic template, then it cannot be done without **Classes** (I’m talking about **ObservableObject**, for example). 
 They exist and are used outside of the **MVVM** paradigm(in the above example), but still.
@@ -59,12 +59,12 @@ All of this is achieved using tools such as **CurrentValueSubject** from **Combi
 
 ## Diagram
 
-[image:86D7C95A-9D11-47CC-B5C9-904E77FF8174-10131-000025FA7CEB46AC/1*lTqANJltzRnUDZWUyJ6XsA.png]
+![1*lTqANJltzRnUDZWUyJ6XsA](https://github.com/riley-usagi/riley-usagi/assets/15017726/b1d5e4fb-8cfb-4125-869c-3451e7c824e5)
 
 
 ## Example
 
-[image:6529DE3F-C733-486A-928F-39B02AA7A8B0-10131-000026005C5ECEA5/1*aKDA3fLKGrPf7wHKAVh1_A.gif]
+![1*aKDA3fLKGrPf7wHKAVh1_A](https://github.com/riley-usagi/riley-usagi/assets/15017726/2e5e276e-5a65-4034-add9-38801a49e006)
 
 The entire purpose of the application is to change the background color of the left and right screens simultaneously when the button in the middle screen is pressed. The application is intentionally designed to show how a single Event can trigger multiple Actions on different screens.
 
@@ -251,7 +251,7 @@ This is the basic principle of the EV architecture.
 
 In most cases, **Models** are essential in EV architecture. While in the standard **MVVM** architecture, it is mandatory to have an additional layer in the form of **ViewModel**, whether needed or not, in the case of **EV**, I use **Models** to the maximum, following the principles outlined in the article *“Stop using MVVM for SwiftUI | Apple Developer Forums.”*
 
-[image:DEAFB669-3BE4-4E82-9E18-FF9EE8A0F9AA-10131-000026C144AF4DE4/1*NwF9TmlpiAAIkvt-O_yOsA.png]
+![1*NwF9TmlpiAAIkvt-O_yOsA](https://github.com/riley-usagi/riley-usagi/assets/15017726/926a45b2-8b5f-4dea-83b4-f481c55f9d70)
 
 It is unnecessary to create a separate layer when data can be accessed directly from the Model.
 
